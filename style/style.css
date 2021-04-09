@@ -5,6 +5,7 @@
 .body {
     margin: 0;
     padding: 0;
+   
 }
 .main-container {
     margin: 0 auto;
@@ -72,3 +73,54 @@
     font-size: 15px;
     
 }
+.hero{
+    background-image: url(/image/Rectangle.png);
+    width: 100%;
+    height: 583px;
+ 
+}
+.vector{
+    margin-top: -10%;
+    width:100%;
+}
+.hero-information{
+    padding-top: 105px;
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+.title-text{
+    font-family: Quicksand;
+    font-size: 14px;
+    color:#3d4f9f;
+}
+.hero-title{
+    font-family: Quicksand;
+    font-size: 48px;
+    color:#3d4f9f;
+    padding-top:16px;
+    padding-bottom: 30px;
+}
+.main-text{
+    font-family: Quicksand;
+    font-size: 17px;
+    color:#3d4f9f;
+}
+.play-button{
+    padding-left: 45%;
+    
+}
+.partner{
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 276px;
+    padding-right: 276px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+
+}
+
