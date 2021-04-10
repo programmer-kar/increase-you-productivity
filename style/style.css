@@ -80,7 +80,7 @@
  
 }
 .vector{
-    margin-top: -10%;
+    margin-top: -15%;
     width:100%;
 }
 .hero-information{
@@ -120,7 +120,98 @@
     flex-direction: row;
     justify-content: space-between;
 
-
+}
+.plan-and-message{
+    display: flex;
+    flex-direction: row;
+}
+.plan-and-message{
+    background-image:url(/image/Rectangle2.png);
+    height: 770px;
+}
+.plans-information{
+    width:28%;
+    
+    padding-left: 19%;
+    padding-top: 208px;
+}
+.plans-image1{
+    margin-top: 100px;
+}
+.plans-buttons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 47px;
+}
+.view-videos{
+    width:169px;
+    height: 44px;
+    background-color: #4c85ff;
+    font-family: Quicksand;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border: #4c85ff;
+}
+.see-features{
+    width:169px;
+    height: 44px;
+    background-color: #d1d1e4;
+    font-family: Quicksand;
+    font-size: 15px;
+    color:black;
+    font-weight: bold;
+    border: #d1d1e4;
 
 }
+.about-cards{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width:52%;
+    padding-left: 24%;
+
+    justify-content: space-between;
+    
+}
+.about-card{
+    width:20%;
+    display: flex;
+    flex-direction: column;
+   
+}
+.card-logo{
+    width:69px;
+    align-self: center;
+
+}
+.card-title{
+    margin-top: 33px;
+    margin-bottom: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #4d74f8;
+    text-align: center;
+}
+.card-text{
+    color: #adb3cb;
+    font-family: Quicksand;
+    font-size: 14px;
+    text-align: center;
+}
+.about-title{
+    font-family: Quicksand;
+    font-size: 15px;
+    color: #3d4f9f;
+    margin-top: 171px;
+    text-align: center;
+}
+.about-text{
+    font-family: Quicksand;
+    font-size: 24px;
+    color: #3d4f9f;
+    margin-top: 20px;
+}
+
+
 
